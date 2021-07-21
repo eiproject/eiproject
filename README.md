@@ -8,4 +8,4 @@
 - 🥅 2021 Goals: My Own Start Up! I am working on develop it, all days. Hope it ready to launch on the end of this year.
 - ⚡ Fun fact: I hate to listen to music, it's distract me so much, indeed.
 
-![Eiproject's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiproject&show_icons=true&theme=radical)
+![Eiproject's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiproject&show_icons=true&theme=dracula)
