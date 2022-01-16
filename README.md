@@ -5,7 +5,7 @@
 ## I'm Razif, from Indonesia
 - 🌱 I’m currently learning C#, JavaScript, and my favorite Python
 - 🏯 I have a Bachelors in Electrical Engineering, specialized in Electrical Control System.
-- ✈️ 2021 Goals: My Own Start Up! I am working on develop it, all days. Hope it ready to launch on the end of this year.
+- ✈️ 2022 Goals: My Own Start Up! I am working on develop it, all days. Hope it ready to launch on the end of this year.
 - ⚡ Fun fact: `null`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
